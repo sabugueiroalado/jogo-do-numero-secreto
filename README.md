@@ -1,4 +1,4 @@
-🎉 **Bem-vindo ao {Jogo do número secreto}** 🚀
+🎉 **Bem-vindo ao Jogo do número secreto** 🚀
 
 Este projeto é uma prática de lógica em desenvolvimento web! Aprendizagem por meio do programa ONE-Oracle! Aqui você encontrará informações sobre o projeto, as ferramentas utilizadas e instruções sobre como executá-lo em seu ambiente local.
 
@@ -7,7 +7,7 @@ Este projeto é uma prática de lógica em desenvolvimento web! Aprendizagem por
 
 ## ℹ️ Sobre o Projeto
 
-O {Jogo do número secreto}é uma aplicação web simples e interativa, que desafia o usuário a adivinhar qual é o número secreto sorteado, número que varia de 1 a 10. Foi desenvolvido com as seguintes tecnologias:
+O Jogo do número secreto é uma aplicação web simples e interativa, que desafia o usuário a adivinhar qual é o número secreto sorteado, número que varia de 1 a 10. Foi desenvolvido com as seguintes tecnologias:
 
 - Linguagem: JavaScript
 - Front-end: HTML, CSS
