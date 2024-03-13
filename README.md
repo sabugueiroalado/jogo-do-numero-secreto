@@ -26,7 +26,7 @@ Siga as instruções abaixo para executar o projeto em seu ambiente local:
 
 - Clone o repositório para sua máquina.
 - Extraia os arquivos.
-- Execute localmente o arquivo *index.html*.
+- Execute localmente o arquivo: *index.html*.
 
 ✨ Divirta-se explorando e personalizando o Projeto de Exemplo! Se tiver alguma dúvida ou precisar de suporte, fique à vontade para entrar em contato. Aproveite! ✨
 
