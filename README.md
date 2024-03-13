@@ -12,7 +12,7 @@ O Jogo do número secreto é uma aplicação web simples e interativa, que desaf
 - Linguagem: JavaScript
 - Front-end: HTML, CSS
 
-A aplicação possui as funcionalidades básicas, sendo muito intuitiva e de fácil utilização.
+A aplicação possui funcionalidades básicas, sendo muito intuitiva e de fácil utilização.
 
 ## 🛠️ Ferramentas Utilizadas
 
